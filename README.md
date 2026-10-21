@@ -1,5 +1,6 @@
 #  HR Employee Attrition and Retention Analysis
 An end-to-end exploratory data analysis (EDA) and workforce analytics project investigating the drivers of employee turnover (16.12% attrition rate) across 1,470 personnel using Python, Pandas, Seaborn, and Matplotlib.
+
 **Project Overview**
 This project investigates the root causes of employee turnover (at 16.12%) within an organization of 1,470 employees. Using Python (`pandas`, `numpy`, `seaborn`, `matplotlib`), the workflow spans data cleaning, exploratory data analysis (EDA), univariate/bivariate/multivariate profiling, and actionable business strategy development.
 
