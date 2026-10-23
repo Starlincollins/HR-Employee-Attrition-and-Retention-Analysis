@@ -14,9 +14,9 @@ This project investigates the root causes of employee turnover (at 16.12%) withi
 
 **Repository Structure**
 
-**`notebooks`**: Contains the step-by-step Python notebooks for EDA and feature engineering.
+**`Notebooks`**: Contains the step-by-step Python notebooks for EDA and feature engineering.
 
-**`reports`**: Presentation decks and slides detailing executive findings and recommendations.
+**`Reports`**: Presentation decks and slides detailing executive findings and recommendations.
 
 **Strategic Recommendations**
 
